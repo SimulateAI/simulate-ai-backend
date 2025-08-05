@@ -1,0 +1,8 @@
+flask
+gunicorn
+torch
+torch-geometric
+transformers
+shap
+numpy
+requests
